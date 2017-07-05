@@ -164,9 +164,9 @@
                                                         <rect key="frame" x="0.0" y="0.0" width="86.5" height="111"/>
                                                         <color key="backgroundColor" red="0.91719964379999996" green="0.91719964379999996" blue="0.91719964379999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <fontDescription key="fontDescription" type="system" pointSize="40"/>
-                                                        <state key="normal" title="e"/>
+                                                        <state key="normal" title="save"/>
                                                         <connections>
-                                                            <action selector="performOperation:" destination="BYZ-38-t0r" eventType="touchUpInside" id="7od-4j-dSB"/>
+                                                            <action selector="save" destination="BYZ-38-t0r" eventType="touchUpInside" id="6T1-mH-HKV"/>
                                                         </connections>
                                                     </button>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nFc-nq-gh7">
@@ -205,9 +205,9 @@
                                                         <rect key="frame" x="0.0" y="0.0" width="86.5" height="111"/>
                                                         <color key="backgroundColor" red="0.91719964379999996" green="0.91719964379999996" blue="0.91719964379999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                         <fontDescription key="fontDescription" type="system" pointSize="40"/>
-                                                        <state key="normal" title="cos"/>
+                                                        <state key="normal" title="rest"/>
                                                         <connections>
-                                                            <action selector="performOperation:" destination="BYZ-38-t0r" eventType="touchUpInside" id="iyI-dB-CgF"/>
+                                                            <action selector="restore" destination="BYZ-38-t0r" eventType="touchUpInside" id="5s9-vs-1rF"/>
                                                         </connections>
                                                     </button>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="o4Z-gh-3ZN">
